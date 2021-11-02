@@ -111,6 +111,7 @@ function App() {
             marginRight: 'auto',
             left: 0,
             right: 0,
+            top: 0,
             textAlign: 'center',
             zIndex: 9,
             width: 640,
