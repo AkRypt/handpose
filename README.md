@@ -1,5 +1,4 @@
-# Gesture Detection with TFJS Handpose and Fingerpose
-
+# Gesture Detection with TFJS Handpose and Fingerpose.
 Estimates all the finger joints and detects gestures.
 
 Gestures which can be estimated: Thumbs Up 👍, Ok 👌, Rock 🤘
