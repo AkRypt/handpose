@@ -1,7 +1,7 @@
 # Gesture Detection with TFJS Handpose and Fingerpose.
 Estimates all the finger joints and detects gestures.
 
-## Click <a href="https://akrypt.github.io/handpose/">here</a> to try it out!
+## Click <a href="https://akrypt.github.io/handpose/" target="_blank">here</a> to try it out!
 
 Gestures which can be estimated: Thumbs Up 👍, Ok 👌, Rock 🤘
 
